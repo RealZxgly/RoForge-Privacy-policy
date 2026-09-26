@@ -2,7 +2,7 @@
 
 _Last updated: September 26, 2026_
 
-RoForge is a browser extension for Roblox made by Redshift Games. This policy explains what RoForge stores, where, and why.
+RoForge is a browser extension for Roblox made by Zxgly. This policy explains what RoForge stores, where, and why.
 
 ## What RoForge stores in your browser
 
