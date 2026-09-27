@@ -1,6 +1,6 @@
 # RoForge Privacy Policy
 
-_Last updated: September 26, 2026_
+_Last updated: September 27, 2026_
 
 RoForge is a browser extension for Roblox made by Zxgly. This policy explains what RoForge stores, where, and why.
 
